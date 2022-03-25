@@ -7,7 +7,7 @@
 Summary:	Python binding of Libdiscid
 Name:		python-%{module}
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/discid/
